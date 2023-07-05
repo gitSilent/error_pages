@@ -1,0 +1,23 @@
+.errorImage{
+    /* margin: 0 auto; */
+    max-width: 500px;
+}
+.errorPageCont{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 150px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.descCont{
+    display: flex;
+    flex-direction: column;
+    
+}
+.errorHeader{
+    font-size: 80px;
+}
+.errorDesc{
+    font-size: 30px;
+}
